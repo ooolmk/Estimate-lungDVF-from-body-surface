@@ -8,7 +8,7 @@ first run data_clean.py to remove 4D-CBCT use only 4D-FBCT for training. And tur
 then turn all the .npy into .mat form and run ptv_4dlung.m.
 
 for dir-lab dataset
-Replace the DIR_test_all.m in ptvreg project (https://github.com/visva89/pTVreg/tree/master) with DIR_all, and run.
+Replace the DIR_test_all.m in ptvreg project (https://github.com/visva89/pTVreg/tree/master) with DIR_all.m, and run.
 
 After storing the registration results at the appropriate location, sur_2d_np.py is used to extract the surface depth map.
 
