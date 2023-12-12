@@ -1,6 +1,6 @@
 # Estimate-lungDVF-from-body-surface
 ----------------------------------------------------------------------------
-additional code will be available comming soon.
+additional code will be available soon.
 ----------------------------------------------------------------------------
 
 Real-time estimation of lung deformation from body surface using a general CoordConv CNN.
