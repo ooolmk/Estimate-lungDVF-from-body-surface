@@ -3,7 +3,7 @@
 additional code will be available soon.
 ----------------------------------------------------------------------------
 
-Real-time estimation of lung deformation from body surface using a general CoordConv CNN.
+Real-time estimation of lung deformation from body surface using a general CoordConv CNN. This project has been accepted by Computer Methods and Programs in Biomedicine (doi.org/10.1016/j.cmpb.2023.107998).
 
 Note the path parameters in the replacement code.
 
